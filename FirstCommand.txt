@@ -5,5 +5,6 @@ git init - Initialized repository
 git remote add origin https://github.com/samaracampos/test-repo.git - Conect remote server
 git add * - Add files
 git commit -m "Testing commit" - Commit
+git pull origin - Necessary for commit
 git push origin master - Put changes at server
 
