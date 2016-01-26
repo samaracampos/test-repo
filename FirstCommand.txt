@@ -1,0 +1,4 @@
+pwd - List current folder 
+cd .. - Go and back to folder
+mkdir test-repo - Create folder
+git init - Initialized repository
